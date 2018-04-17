@@ -1,0 +1,11 @@
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\bin\Debug\netcoreapp2.0\RecipesFinal.deps.json
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\bin\Debug\netcoreapp2.0\RecipesFinal.runtimeconfig.json
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\bin\Debug\netcoreapp2.0\RecipesFinal.runtimeconfig.dev.json
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\bin\Debug\netcoreapp2.0\RecipesFinal.dll
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\bin\Debug\netcoreapp2.0\RecipesFinal.pdb
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\obj\Debug\netcoreapp2.0\RecipesFinal.csproj.CoreCompileInputs.cache
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\obj\Debug\netcoreapp2.0\RecipesFinal.AssemblyInfoInputs.cache
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\obj\Debug\netcoreapp2.0\RecipesFinal.AssemblyInfo.cs
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\obj\Debug\netcoreapp2.0\RecipesFinal.dll
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\obj\Debug\netcoreapp2.0\RecipesFinal.pdb
+G:\Tutorial\RecipeResearch\RecipesFinal\RecipesFinal\obj\Debug\netcoreapp2.0\RecipesFinal.csprojResolveAssemblyReference.cache
